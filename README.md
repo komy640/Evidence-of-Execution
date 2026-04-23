@@ -1,6 +1,5 @@
 # Windows Evidence of Execution
 
----
 
 ## Table of Contents
 
