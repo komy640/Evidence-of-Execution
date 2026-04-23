@@ -1,7 +1,4 @@
-# Windows Evidence of Execution: A Complete Forensic Guide
-
-> **Course Reference:** SANS FOR508 — Advanced Incident Response, Threat Hunting, and Digital Forensics  
-> **Topic:** Advanced Evidence of Execution Artifacts
+# Windows Evidence of Execution
 
 ---
 
